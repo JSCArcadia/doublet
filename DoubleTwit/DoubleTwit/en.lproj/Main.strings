@@ -1,0 +1,99 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "01e-zK-tGf"; */
+"01e-zK-tGf.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1e7-IC-Tsh"; */
+"1e7-IC-Tsh.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2RK-0E-4M2"; */
+"2RK-0E-4M2.text" = "Label";
+
+/* Class = "UIViewController"; title = "Settings"; ObjectID = "4go-Ap-cfE"; */
+"4go-Ap-cfE.title" = "Settings";
+
+/* Class = "UIViewController"; title = "Teams"; ObjectID = "8Oe-Pr-Atr"; */
+"8Oe-Pr-Atr.title" = "Teams";
+
+/* Class = "UIButton"; normalTitle = "Check"; ObjectID = "Brl-DW-FPU"; */
+"Brl-DW-FPU.normalTitle" = "Check";
+
+/* Class = "UIViewController"; title = "About"; ObjectID = "CaD-Wh-zol"; */
+"CaD-Wh-zol.title" = "About";
+
+/* Class = "UILabel"; text = "This application was developed by JSC “Arcadia Inc.”.\nAuthor (idea and programming): Victor Kotov."; ObjectID = "qIB-I3-UEY"; */
+"qIB-I3-UEY.text" = "This application was developed by JSC “Arcadia Inc.”.\nAuthor (idea and programming): Victor Kotov.";
+
+/* Class = "UIButton"; normalTitle = "http://www.softwarecountry.com/"; ObjectID = "F9y-UN-yXV"; */
+"F9y-UN-yXV.normalTitle" = "http://www.softwarecountry.com/";
+
+/* Class = "UIButton"; normalTitle = "Send us your Feedback"; ObjectID = "9Kp-Gv-Mub"; */
+"9Kp-Gv-Mub.normalTitle" = "Send us your Feedback";
+
+/* Class = "UITextField"; placeholder = "Put Twitter account name here"; ObjectID = "IWv-nb-NoR"; */
+"IWv-nb-NoR.placeholder" = "Put Twitter account name here";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "MFk-R7-gEB"; */
+"MFk-R7-gEB.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Mdl-cM-YGt"; */
+"Mdl-cM-YGt.text" = "Label";
+
+/* Class = "UILabel"; text = "Bottom"; ObjectID = "Ph7-Wc-3Go"; */
+"Ph7-Wc-3Go.text" = "Guest";
+
+/* Class = "UIButton"; normalTitle = "Check"; ObjectID = "UQL-7G-kIM"; */
+"UQL-7G-kIM.normalTitle" = "Check";
+
+/* Class = "UIViewController"; title = "DoubleT"; ObjectID = "XCQ-Ei-xqt"; */
+"XCQ-Ei-xqt.title" = "DoubleT for KHL";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Za4-SM-aSo"; */
+"Za4-SM-aSo.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bzD-ff-qe3"; */
+"bzD-ff-qe3.text" = "Label";
+
+/* Class = "UILabel"; text = "00:00"; ObjectID = "f08-jY-om7"; */
+"f08-jY-om7.text" = "00:00";
+
+/* Class = "UILabel"; text = "Top"; ObjectID = "f2z-n3-JpX"; */
+"f2z-n3-JpX.text" = "Home";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "hyG-Iw-ZYj"; */
+"hyG-Iw-ZYj.normalTitle" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "iMF-9A-J4i"; */
+"iMF-9A-J4i.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "You have not specified your favorite \nhockey team yet."; ObjectID = "jMC-uj-C1t"; */
+"jMC-uj-C1t.text" = "You have not specified your favorite \nhockey team yet.";
+
+/* Class = "UIViewController"; title = "Team Details"; ObjectID = "jqq-q4-gVL"; */
+"jqq-q4-gVL.title" = "Team Details";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "lHV-Qp-KeK"; */
+"lHV-Qp-KeK.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Put Twitter account name here"; ObjectID = "llK-Yc-fht"; */
+"llK-Yc-fht.placeholder" = "Put Twitter account name here";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "lp3-dB-hve"; */
+"lp3-dB-hve.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "..."; ObjectID = "tLC-g6-UdJ"; */
+"tLC-g6-UdJ.normalTitle" = "...";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wC8-Gj-aKC"; */
+"wC8-Gj-aKC.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wSh-dB-JyB"; */
+"wSh-dB-JyB.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Save&Apply"; ObjectID = "wbL-Wb-ABC"; */
+"wbL-Wb-ABC.normalTitle" = "Save&Apply";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "yje-2u-rP5"; */
+"yje-2u-rP5.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "http://www.khl.ru/calendar/"; ObjectID = "Gxe-nX-vuj"; */
+"Gxe-nX-vuj.normalTitle" = "http://en.khl.ru/calendar/";

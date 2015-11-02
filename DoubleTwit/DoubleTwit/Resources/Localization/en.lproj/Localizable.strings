@@ -1,0 +1,34 @@
+/* 
+  Localizable.strings
+  DoubleTwit
+
+  Created by Victor Kotov on 14/10/15.
+  Copyright © 2015 Arcadia. All rights reserved.
+*/
+
+// Common
+
+"common.arcadia.website" = "http://www.softwarecountry.com/";
+"common.khl.calendar" = "http://en.khl.ru/calendar/";
+"common.cancel" = "Cancel";
+"common.ok" = "Ok";
+
+// Main menu
+
+"menu.left.home" = "Home";
+"menu.left.teams" = "Teams";
+"menu.left.settings" = "Settings";
+"menu.left.about" = "About";
+
+// Home screen
+
+"alert.options.top" = "Show only top";
+"alert.options.bottom" = "Show only bottom";
+"alert.options.5050" = "50/50";
+"alert.options.custompair" = "Set manually";
+"alert.options.autoupdate.turn.on" = "Turn On Auto-update";
+"alert.options.autoupdate.turn.off" = "Turn Off Auto-update";
+
+// Teams screen
+
+"teams.favorite.team" = " is my favorite team!";
